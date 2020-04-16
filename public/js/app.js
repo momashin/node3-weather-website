@@ -1,4 +1,4 @@
-console.log('Client side javascript file is loaded')
+//console.log('Client side javascript file is loaded')
 
 // will work only on browser!
 
